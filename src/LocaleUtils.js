@@ -8,7 +8,7 @@ const WEEKDAYS_LONG = [
   'Saturday',
 ];
 
-const WEEKDAYS_SHORT = ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa'];
+const WEEKDAYS_SHORT = ['S', 'M', 'T', 'W', 'T', 'F', 'S'];
 
 const MONTHS = [
   'January',
